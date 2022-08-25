@@ -23,7 +23,7 @@ It is a polymorphisem technique.IT allows a person to achieve run time polymorph
 
 In OOP interfaces are used to get multiple functions of different classes in a single child class.For this purpose we make interfaces instead of classes.So the child class can have all the interfaces as inherited.You can not declare attributes or functions in interface.Only the empty functions can be declare in interfaces.And when child class inherits an interface, then interface forces the child calss to run all the functions that are declared in that interface.
 
-###PolyMorphisem
+### PolyMorphisem
 
 By using Polymorphisem we can have multiple same functions which are performing different logics.There are two types CompileTime and Run Time.
 ComplieTime Polymorphisem is achieved with FunctionOverLoading and ParaeterOverLoading.
