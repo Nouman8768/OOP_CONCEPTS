@@ -18,3 +18,7 @@ Inheritence is a technique,which is used to remove data repeating.Inheritance wo
 ### Methode Overriding
 
 It is a polymorphisem technique.IT allows a person to achieve run time polymorphisem.In methode overriding,derived classes can a have same name functions even with same number and named parameters,as of parent class function.If base class function does not have any parameter,and derived or inherited class function whose name is same of parent class function, but this function have some parameters then it is not MethodeOverriding.The objects of the classes, points which function will be running.MethodeOverriding is an example of Late or Dynamic binding.
+
+### Interfaces
+
+In OOP interfaces are used to get multiple functions of different classes in a single child class.For this purpose we make interfaces instead of classes.So the child class can have all the interfaces as inherited.You can not declare attributes or functions in interface.Only the empty functions can be declare in interfaces.And when child class inherits an interface, then interface forces the child calss to run all the functions that are declared in that interface.
